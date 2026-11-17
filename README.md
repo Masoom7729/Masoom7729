@@ -27,16 +27,19 @@
 
 ---
 
+
 ## 🎯 Current Focus
 
-| Area                 | Progress       |
-| :------------------- | :------------- |
-| 🧠 DSA – Striver A2Z | ▰▰▰▰▰▰▱▱▱▱ 60% |
+| Area | Progress |
+|:---|:---|
+| 🧠 DSA - Striver A2Z | ▰▰▰▰▰▰▰▰▱▱ 80% |
 | ☕ Java & Spring Boot | ▰▰▰▰▰▰▰▱▱▱ 70% |
-| 🔗 Microservices     | ▰▰▰▰▰▰▱▱▱▱ 60% |
-| 🤖 Machine Learning  | ▰▰▰▰▰▰▱▱▱▱ 60% |
-| 🧠 Deep Learning     | ▰▰▰▰▱▱▱▱▱▱ 40% |
-| 🐳 Docker & CI/CD    | ▰▰▰▱▱▱▱▱▱▱ 30% |
+| 🔗 Microservices | ▰▰▰▰▰▰▱▱▱▱ 60% |
+| 🤖 Machine Learning | ▰▰▰▰▰▱▱▱▱▱ 50% |
+| 🧠 Deep Learning | ▰▰▰▱▱▱▱▱▱▱ 30% |
+| 🐳 Docker & CI/CD | ▰▰▰▱▱▱▱▱▱▱ 30% |
+
+---
 
 ---
 
