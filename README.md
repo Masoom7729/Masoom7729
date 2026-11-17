@@ -72,10 +72,11 @@
 
 ### 🌐 Web Development
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,javascript&theme=dark](https://skillicons.dev/icons?i=html,css,javascript\&theme=dark)" />
-&#x20; \<img src="[https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)" />
-\</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
 ### ⚙️ Developer Tools
 
@@ -229,16 +230,20 @@ flowchart TD
 
 ## 🤝 Connect With Me
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/Masoom7729](https://github.com/Masoom7729)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
-&#x20; \</a>
-\</p>
 
 ---
 
-\<h3 align="center">💙 Thanks for visiting my profile!\</h3>
+## 💛 Connect With Me
 
-\<p align="center">
-&#x20; \<i>Keep Learning • Keep Building • Keep Growing 🚀\</i>
-\</p>
+<p align="center">
+  <a href="https://github.com/Masoom7729">
+    <img src="https://img.shields.io/badge/GitHub-Masoom7729-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<h3 align="center">💙 Thanks for visiting my profile!</h3>
+
+<p align="center">
+  <i>Keep Learning • Keep Building • Keep Growing 🚀</i>
+</p>
+
