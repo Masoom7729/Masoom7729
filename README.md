@@ -1,10 +1,17 @@
 # 👋 Hey, I'm Masoom Imtiyaz!
 
-\<h3 align="center">💻 Java Developer | Backend Developer | AI/ML Enthusiast\</h3>
 
-\<p align="center">   \<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Building+Real+World+Projects;Learning+DSA+and+System+Design;Exploring+AI+%26+Machine+Learning](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=23\&duration=3000\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=600\&lines=Welcome+to+my+GitHub!;Building+Real+World+Projects;Learning+DSA+and+System+Design;Exploring+AI+%26+Machine+Learning)" /> \</p>
+<h3 align="center">💻 Java Developer | Backend Developer | AI/ML Enthusiast</h3>
 
-\<p align="center">   \<img src="[https://komarev.com/ghpvc/?username=Masoom7729&label=Profile%20Views&color=blueviolet&style=for-the-badge](https://komarev.com/ghpvc/?username=Masoom7729\&label=Profile%20Views\&color=blueviolet\&style=for-the-badge)" />   \<img src="[https://img.shields.io/github/followers/Masoom7729?style=for-the-badge&color=blue](https://img.shields.io/github/followers/Masoom7729?style=for-the-badge\&color=blue)" /> \</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=23&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Building+Real+World+Projects;Learning+DSA+and+System+Design;Exploring+AI+and+Machine+Learning" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Masoom7729&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Masoom7729?style=for-the-badge&color=blue" />
+</p>
+
 
 ---
 
