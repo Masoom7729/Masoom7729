@@ -37,30 +37,31 @@
 
 ### 💻 Programming Languages
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=java,python,c,cpp,js,mysql&theme=dark](https://skillicons.dev/icons?i=java,python,c,cpp,js,mysql\&theme=dark)" />
-\</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,mysql&theme=dark" />
+</p>
 
 ### 🤖 AI / Machine Learning / Data Science
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark](https://skillicons.dev/icons?i=python,tensorflow,sklearn\&theme=dark)" />
-&#x20; \<img src="[https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge\&logo=python\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)" />
-\</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark" />
+  <br><br>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+</p>
+### 🔴 Backend Development
 
-### ☕ Backend Development
-
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=spring,mysql,redis&theme=dark](https://skillicons.dev/icons?i=spring,mysql,redis\&theme=dark)" />
-&#x20; \<img src="[https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/REST_API-009688?style=for-the-badge](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)" />
-&#x20; \<img src="[https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Eureka-6DB33F?style=for-the-badge](https://img.shields.io/badge/Eureka-6DB33F?style=for-the-badge)" />
-\</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,mysql,redis&theme=dark" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eureka-6DB33F?style=for-the-badge" />
+</p>
 
 ### 🌐 Web Development
 
@@ -71,10 +72,11 @@
 
 ### ⚙️ Developer Tools
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,docker&theme=dark](https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,docker\&theme=dark)" />
-&#x20; \<img src="[https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=black)" />
-\</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,docker&theme=dark" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+</p>
 
 ---
 
@@ -180,49 +182,41 @@ flowchart TD
 
 ---
 
+
 ## 📈 Contribution Activity Graph
 
-\<p align="center">
-&#x20; \<img width="100%" src="[https://github-readme-activity-graph.vercel.app/graph?username=Masoom7729&theme=tokyo-night&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=Masoom7729\&theme=tokyo-night\&hide_border=true\&area=true)" />
-\</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Masoom7729&theme=tokyo-night&hide_border=true&area=true)
 
 ---
+
 
 ## 🏆 GitHub Achievements
 
-\<p align="center">
-&#x20; \<img src="[https://github-profile-trophy.vercel.app/?username=Masoom7729&theme=tokyonight&no-frame=true&row=1&column=6](https://github-profile-trophy.vercel.app/?username=Masoom7729\&theme=tokyonight\&no-frame=true\&row=1\&column=6)" width="100%" />
-\</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Masoom7729&theme=tokyonight&no-frame=true&row=1&column=6)
+
 
 ---
+
 
 ## 🐍 Contribution Snake
 
-\<p align="center">
-&#x20; \<picture>
-&#x20;   \<source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/Masoom7729/Masoom7729/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/Masoom7729/Masoom7729/output/github-contribution-grid-snake-dark.svg)">
-&#x20;   \<source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/Masoom7729/Masoom7729/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Masoom7729/Masoom7729/output/github-contribution-grid-snake.svg)">
-&#x20;   \<img alt="GitHub Contribution Snake" src="[https://raw.githubusercontent.com/Masoom7729/Masoom7729/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Masoom7729/Masoom7729/output/github-contribution-grid-snake.svg)" width="100%">
-&#x20; \</picture>
-\</p>
+![Contribution Snake](https://raw.githubusercontent.com/Masoom7729/Masoom7729/output/github-contribution-grid-snake.svg)
+
 
 ---
 
-## 📋 Profile Summary
 
-\<p align="center">
-&#x20; \<img src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masoom7729&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masoom7729\&theme=tokyonight)" width="100%" />
-\</p>
+## 📋 Profile Summary Cards
 
-\<p align="center">
-&#x20; \<img src="[https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Masoom7729&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Masoom7729\&theme=tokyonight)" width="49%" />
-&#x20; \<img src="[https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Masoom7729&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Masoom7729\&theme=tokyonight)" width="49%" />
-\</p>
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masoom7729&theme=tokyonight)
 
-\<p align="center">
-&#x20; \<img src="[https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Masoom7729&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Masoom7729\&theme=tokyonight)" width="49%" />
-&#x20; \<img src="[https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Masoom7729&theme=tokyonight&utcOffset=5.5](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Masoom7729\&theme=tokyonight\&utcOffset=5.5)" width="49%" />
-\</p>
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Masoom7729&theme=tokyonight)
+
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Masoom7729&theme=tokyonight)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Masoom7729&theme=tokyonight)
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Masoom7729&theme=tokyonight&utcOffset=5.5)
 
 ---
 
