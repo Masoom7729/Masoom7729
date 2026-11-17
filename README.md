@@ -1,45 +1,245 @@
+# 👋 Hey, I'm Masoom Imtiyaz!
 
-# Hi, I'm Masoom 👋
+\<h3 align="center">💻 Java Developer | Backend Developer | AI/ML Enthusiast\</h3>
 
-### Computer Science Student | Aspiring Software Developer
+\<p align="center">   \<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Building+Real+World+Projects;Learning+DSA+and+System+Design;Exploring+AI+%26+Machine+Learning](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=23\&duration=3000\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=600\&lines=Welcome+to+my+GitHub!;Building+Real+World+Projects;Learning+DSA+and+System+Design;Exploring+AI+%26+Machine+Learning)" /> \</p>
 
-I'm a Computer Science student interested in Software Development, Data Structures & Algorithms, and Artificial Intelligence.
+\<p align="center">   \<img src="[https://komarev.com/ghpvc/?username=Masoom7729&label=Profile%20Views&color=blueviolet&style=for-the-badge](https://komarev.com/ghpvc/?username=Masoom7729\&label=Profile%20Views\&color=blueviolet\&style=for-the-badge)" />   \<img src="[https://img.shields.io/github/followers/Masoom7729?style=for-the-badge&color=blue](https://img.shields.io/github/followers/Masoom7729?style=for-the-badge\&color=blue)" /> \</p>
 
-- 🔭 Working on Machine Learning and Python projects
-- 🌱 Currently learning Java, DSA, Backend Development and AI/ML
-- 💻 Interested in building practical software applications
-- 🎯 Working towards becoming a skilled Software Engineer
+---
 
-### 🛠️ Technologies & Tools
+## 🚀 About Me
 
-**Languages:** Java, Python, SQL
+- 🎓 Computer Science student passionate about software development.
+- ☕ Working with Java and Spring Boot.
+- 🧠 Practicing Data Structures and Algorithms.
+- 🤖 Building Machine Learning and Deep Learning projects.
+- 🔗 Exploring Microservices, REST APIs and System Design.
+- 🌱 Continuously learning and building real-world applications.
+- 🎯 Goal: Become a skilled Software Engineer.
 
-**Machine Learning:** NumPy, Pandas, Scikit-learn, TensorFlow/Keras
+---
 
-**Backend Development:** Spring Boot, MySQL
+## 🎯 Current Focus
 
-**Tools:** Git, GitHub, IntelliJ IDEA, PyCharm, Jupyter Notebook
+| Area                 | Progress       |
+| :------------------- | :------------- |
+| 🧠 DSA – Striver A2Z | ▰▰▰▰▰▰▱▱▱▱ 60% |
+| ☕ Java & Spring Boot | ▰▰▰▰▰▰▰▱▱▱ 70% |
+| 🔗 Microservices     | ▰▰▰▰▰▰▱▱▱▱ 60% |
+| 🤖 Machine Learning  | ▰▰▰▰▰▰▱▱▱▱ 60% |
+| 🧠 Deep Learning     | ▰▰▰▰▱▱▱▱▱▱ 40% |
+| 🐳 Docker & CI/CD    | ▰▰▰▱▱▱▱▱▱▱ 30% |
 
-### 🚀 My Projects
+---
 
-**1. Email Spam Classifier**
+## 🛠️ Complete Tech Stack
 
-Machine Learning project that classifies messages as Spam or Not Spam using NLP and Multinomial Naive Bayes.
+### 💻 Programming Languages
 
-[View Project](https://github.com/Masoom7729/Email-Spam-Classifier)
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=java,python,c,cpp,js,mysql&theme=dark](https://skillicons.dev/icons?i=java,python,c,cpp,js,mysql\&theme=dark)" />
+\</p>
 
-**2. Dog vs Cat Classification**
+### 🤖 AI / Machine Learning / Data Science
 
-Deep Learning project using Convolutional Neural Networks (CNN).
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark](https://skillicons.dev/icons?i=python,tensorflow,sklearn\&theme=dark)" />
+&#x20; \<img src="[https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge\&logo=python\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)" />
+\</p>
 
-[View Project](https://github.com/Masoom7729/dog-cat-classification-cnn)
+### ☕ Backend Development
 
-**3. Student Management System**
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=spring,mysql,redis&theme=dark](https://skillicons.dev/icons?i=spring,mysql,redis\&theme=dark)" />
+&#x20; \<img src="[https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/REST_API-009688?style=for-the-badge](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)" />
+&#x20; \<img src="[https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Eureka-6DB33F?style=for-the-badge](https://img.shields.io/badge/Eureka-6DB33F?style=for-the-badge)" />
+\</p>
 
-A software development project for managing student information.
+### 🌐 Web Development
 
-[View Project](https://github.com/Masoom7729/student-management-system)
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,javascript&theme=dark](https://skillicons.dev/icons?i=html,css,javascript\&theme=dark)" />
+&#x20; \<img src="[https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)" />
+\</p>
 
-### 📫 Connect With Me
+### ⚙️ Developer Tools
 
-GitHub: https://github.com/Masoom7729
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,docker&theme=dark](https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,docker\&theme=dark)" />
+&#x20; \<img src="[https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=black)" />
+\</p>
+
+---
+
+## 📚 My Development Journey
+
+```mermaid
+flowchart TD
+    A["💻 Programming Fundamentals"] --> B["☕ Java & OOP"]
+    B --> C["🧠 Data Structures & Algorithms"]
+    B --> D["🌐 Backend Development"]
+    D --> E["🍃 Spring Boot"]
+    E --> F["🔗 Microservices & REST APIs"]
+    F --> G["🐳 Docker & CI/CD"]
+    C --> H["🎯 Software Engineering Interviews"]
+    A --> I["🐍 Python"]
+    I --> J["📊 NumPy & Pandas"]
+    J --> K["🤖 Machine Learning"]
+    K --> L["🧠 Deep Learning & CNN"]
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 🎬 1. Movie Recommendation System
+
+A content-based movie recommendation application that recommends similar movies based on movie information.
+
+**Technologies:** Python, Pandas, Scikit-learn, TF-IDF, Cosine Similarity, Streamlit.
+
+[🔗 Explore my GitHub repositories](https://github.com/Masoom7729?tab=repositories)
+
+### 📧 2. Email Spam Classifier
+
+A machine learning application that classifies messages as Spam or Ham using natural language processing.
+
+**Technologies:** Python, NLP, TF-IDF, NLTK, Scikit-learn, Multinomial Naive Bayes, Streamlit.
+
+[🔗 Explore my GitHub repositories](https://github.com/Masoom7729?tab=repositories)
+
+### 🐶 3. Dog vs Cat Image Classifier
+
+A deep learning project that uses a Convolutional Neural Network to classify dog and cat images.
+
+**Technologies:** Python, TensorFlow, Keras, CNN, Google Colab.
+
+[🔗 Explore my GitHub repositories](https://github.com/Masoom7729?tab=repositories)
+
+### 🛒 4. E-Commerce Microservices
+
+A backend application built using a microservices architecture, with separate services for users, products and orders.
+
+**Technologies:** Java, Spring Boot, Eureka, API Gateway, JWT, MySQL.
+
+[🔗 Explore my GitHub repositories](https://github.com/Masoom7729?tab=repositories)
+
+---
+
+## 🏗️ Project Architecture
+
+### 🛒 E-Commerce Microservices Architecture
+
+```mermaid
+flowchart TD
+    A["👤 Client"] --> B["🚪 API Gateway"]
+    B --> C["🔐 User Service"]
+    B --> D["📦 Product Service"]
+    B --> E["🛒 Order Service"]
+    C --> F[("MySQL")]
+    D --> G[("Product Database")]
+    E --> H[("Order Database")]
+    B --> I["🔎 Eureka Discovery Server"]
+    C -.-> I
+    D -.-> I
+    E -.-> I
+```
+
+### 🤖 Machine Learning Project Workflow
+
+```mermaid
+flowchart TD
+    A["📂 Dataset"] --> B["🧹 Data Cleaning"]
+    B --> C["📊 Exploratory Data Analysis"]
+    C --> D["⚙️ Data Preprocessing"]
+    D --> E["🔢 Feature Extraction"]
+    E --> F["🤖 Model Training"]
+    F --> G["📈 Model Evaluation"]
+    G --> H["💾 Save Trained Model"]
+    H --> I["🌐 Streamlit Application"]
+    I --> J["🎯 User Prediction"]
+```
+
+---
+
+## 📊 GitHub Analytics
+
+\<p align="center">
+&#x20; \<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=Masoom7729&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=Masoom7729\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" />
+&#x20; \<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Masoom7729&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Masoom7729\&layout=compact\&theme=tokyonight\&hide_border=true)" />
+\</p>
+
+\<p align="center">
+&#x20; \<img width="70%" src="[https://github-readme-streak-stats.herokuapp.com/?user=Masoom7729&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Masoom7729\&theme=tokyonight\&hide_border=true)" />
+\</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+\<p align="center">
+&#x20; \<img width="100%" src="[https://github-readme-activity-graph.vercel.app/graph?username=Masoom7729&theme=tokyo-night&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=Masoom7729\&theme=tokyo-night\&hide_border=true\&area=true)" />
+\</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+\<p align="center">
+&#x20; \<img src="[https://github-profile-trophy.vercel.app/?username=Masoom7729&theme=tokyonight&no-frame=true&row=1&column=6](https://github-profile-trophy.vercel.app/?username=Masoom7729\&theme=tokyonight\&no-frame=true\&row=1\&column=6)" width="100%" />
+\</p>
+
+---
+
+## 🐍 Contribution Snake
+
+\<p align="center">
+&#x20; \<picture>
+&#x20;   \<source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/Masoom7729/Masoom7729/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/Masoom7729/Masoom7729/output/github-contribution-grid-snake-dark.svg)">
+&#x20;   \<source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/Masoom7729/Masoom7729/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Masoom7729/Masoom7729/output/github-contribution-grid-snake.svg)">
+&#x20;   \<img alt="GitHub Contribution Snake" src="[https://raw.githubusercontent.com/Masoom7729/Masoom7729/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Masoom7729/Masoom7729/output/github-contribution-grid-snake.svg)" width="100%">
+&#x20; \</picture>
+\</p>
+
+---
+
+## 📋 Profile Summary
+
+\<p align="center">
+&#x20; \<img src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masoom7729&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masoom7729\&theme=tokyonight)" width="100%" />
+\</p>
+
+\<p align="center">
+&#x20; \<img src="[https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Masoom7729&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Masoom7729\&theme=tokyonight)" width="49%" />
+&#x20; \<img src="[https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Masoom7729&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Masoom7729\&theme=tokyonight)" width="49%" />
+\</p>
+
+\<p align="center">
+&#x20; \<img src="[https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Masoom7729&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Masoom7729\&theme=tokyonight)" width="49%" />
+&#x20; \<img src="[https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Masoom7729&theme=tokyonight&utcOffset=5.5](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Masoom7729\&theme=tokyonight\&utcOffset=5.5)" width="49%" />
+\</p>
+
+---
+
+## 🤝 Connect With Me
+
+\<p align="center">
+&#x20; \<a href="[https://github.com/Masoom7729](https://github.com/Masoom7729)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
+&#x20; \</a>
+\</p>
+
+---
+
+\<h3 align="center">💙 Thanks for visiting my profile!\</h3>
+
+\<p align="center">
+&#x20; \<i>Keep Learning • Keep Building • Keep Growing 🚀\</i>
+\</p>
