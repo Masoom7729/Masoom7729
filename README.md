@@ -169,16 +169,14 @@ flowchart TD
 
 ---
 
+
 ## 📊 GitHub Analytics
 
-\<p align="center">
-&#x20; \<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=Masoom7729&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=Masoom7729\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" />
-&#x20; \<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Masoom7729&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Masoom7729\&layout=compact\&theme=tokyonight\&hide_border=true)" />
-\</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Masoom7729&show_icons=true&theme=tokyonight&hide_border=true)
 
-\<p align="center">
-&#x20; \<img width="70%" src="[https://github-readme-streak-stats.herokuapp.com/?user=Masoom7729&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Masoom7729\&theme=tokyonight\&hide_border=true)" />
-\</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Masoom7729&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Masoom7729&theme=tokyonight&hide_border=true)
 
 ---
 
